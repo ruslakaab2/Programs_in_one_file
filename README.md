@@ -1,6 +1,8 @@
 # num_str
 файлы из папки programm
 
+files from the programm folder
+
 программы:
 
     1)"programm/конвертор_цыфер_в_строку.py"это программа или функция написана на python3.11 
