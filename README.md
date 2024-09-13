@@ -1,4 +1,4 @@
-# num_str
+
 файлы из папки programm
 
 files from the programm folder
